@@ -1,16 +1,26 @@
-## Hi there 👋
+## Welcome traveller 👋
 
-<!--
-**jelovac/jelovac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vladimir Jelovac, and I've been professionally building software for over a decade.
 
-Here are some ideas to get you started:
+### Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- System Design, Software Architecture, R&D, Web Development, SaaS Development, DevOps, Technical Leadership, Mentoring
+- PHP, JavaScript (JS), TypeScript (TS), Java, Kotlin, Python, GoLang (Go), Bash, SQL, NoSQL
+- AWS, Docker, Kubernetes, Linux
+
+### Education
+
+- Master of software engineering
+- Bachelor of Informatics
+
+### Areas of interest
+
+- Greenfield projects
+- R&D
+- Technical leadership
+
+### Contact
+
+LinkedIn: https://www.linkedin.com/in/vladimir-jelovac-18704658
+
+GitHub: https://github.com/jelovac
